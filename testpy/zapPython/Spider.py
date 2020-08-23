@@ -31,3 +31,4 @@ print('\n'.join(map(str, zap.spider.results(scanID))))
 # If required post process the spider results
 
 # TODO: Explore the Application more with Ajax Spider or Start scanning the application for vulnerabilities
+
